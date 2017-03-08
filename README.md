@@ -1,4 +1,4 @@
-plaid-node-legacy  [![Circle CI](https://circleci.com/gh/plaid/plaid-node-legacy.svg?style=svg&circle-token=2efcf082d8df7e119325a4dbed9a1091ff5db422)](https://circleci.com/gh/plaid/plaid-node-legacy)  [![npm version](https://badge.fury.io/js/plaid-legacy.svg)](http://badge.fury.io/js/plaid-legacy)
+plaid-node-legacy  [![Circle CI](https://circleci.com/gh/plaid/plaid-node-legacy.svg?style=svg&circle-token=cbbf9802b12344657685d63a599fbbd3dc3b5ae3)](https://circleci.com/gh/plaid/plaid-node-legacy)  [![npm version](https://badge.fury.io/js/plaid-legacy.svg)](http://badge.fury.io/js/plaid-legacy)
 ==============
 
 A node.js client library for the legacy version of the [Plaid API][1].
