@@ -1,0 +1,34 @@
+{
+  "name": "plaid-legacy",
+  "version": "0.0.1",
+  "description": "A node.js client for Plaid's API",
+  "keywords": [
+    "plaid",
+    "plaid.com"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/plaid/plaid-node-legacy.git"
+  },
+  "bugs": {
+    "url": "http://github.com/plaid/plaid-node-legacy/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/plaid/plaid-node-legacy/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "ramda": "0.19.x",
+    "request": "2.74.x"
+  },
+  "devDependencies": {
+    "istanbul": "0.4.x",
+    "jscs": "2.7.x",
+    "jshint": "2.8.x",
+    "mocha": "2.3.x",
+    "proxyquire": "1.7.x",
+    "xyz": "0.5.x"
+  }
+}
