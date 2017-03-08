@@ -1,7 +1,7 @@
 {
   "name": "plaid-legacy",
-  "version": "0.0.1",
-  "description": "A node.js client for Plaid's API",
+  "version": "1.2.0",
+  "description": "A node.js client for Plaid's legacy API",
   "keywords": [
     "plaid",
     "plaid.com"
