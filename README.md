@@ -1,13 +1,13 @@
 plaid-node-legacy  [![Circle CI](https://circleci.com/gh/plaid/plaid-node-legacy.svg?style=svg&circle-token=cbbf9802b12344657685d63a599fbbd3dc3b5ae3)](https://circleci.com/gh/plaid/plaid-node-legacy)  [![npm version](https://badge.fury.io/js/plaid-legacy.svg)](http://badge.fury.io/js/plaid-legacy)
 ==============
 
-A node.js client library for the legacy version of the [Plaid API][1].
+A node.js client library for the legacy version of the [Plaid API][2].
 
 This module was forked from `plaid-node` version `1.2.0`.
 
 ## Table of Contents
 
-- [plaid-node](#plaid-node)
+- [plaid-node-legacy](#plaid-node-legacy)
   * [Install](#install)
   * [Getting started](#getting-started)
     + [Public Endpoints](#public-endpoints)
@@ -28,8 +28,7 @@ $ npm install plaid-legacy
 
 ## Getting started
 
-The module supports all Plaid API endpoints.  For complete information about the API, head
-to the [docs][2].
+The module supports all Plaid legacy API endpoints.  For complete information about the API, head to the [legacy API docs][2].
 
 ### Public Endpoints
 
@@ -366,13 +365,12 @@ Code coverage information is written to `/coverage`.
 [MIT][7]
 
 
-[1]: https://plaid.com
-[2]: https://plaid.com/docs
-[3]: https://plaid.com/docs/#response-codes
+[2]: https://plaid.com/docs/legacy/api
+[3]: https://plaid.com/docs/legacy/api#response-codes
 [4]: https://github.com/petkaantonov/bluebird
 [5]: https://github.com/petkaantonov/bluebird/blob/master/API.md#promisepromisifyallobject-target--object-options---object
 [6]: https://github.com/plaid/plaid-node-legacy/issues/new
 [7]: https://github.com/plaid/plaid-node-legacy/blob/master/LICENSE
-[8]: https://plaid.com/docs/link
-[9]: https://plaid.com/docs/link/stripe
+[8]: https://plaid.com/docs/legacy/quickstart
+[9]: https://plaid.com/docs/legacy/link/stripe
 [10]: https://stripe.com/docs/api#create_bank_account_token
