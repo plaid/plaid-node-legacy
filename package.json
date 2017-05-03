@@ -23,6 +23,7 @@
     "ramda": "0.19.x",
     "request": "2.74.x"
   },
+  "types": "./index.d.ts",
   "devDependencies": {
     "istanbul": "0.4.x",
     "jscs": "2.7.x",
